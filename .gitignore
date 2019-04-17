@@ -1,0 +1,12 @@
+# java scala
+*.class
+*.log
+out
+target
+# Python:
+*.py[cod]
+*.so
+*.egg
+*.egg-info
+dist
+build
