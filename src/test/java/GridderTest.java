@@ -1,5 +1,3 @@
-package test.com.sutpc.geo; 
-
 import com.sutpc.geo.Coord;
 import com.sutpc.geo.Gridder;
 import org.junit.Test;
